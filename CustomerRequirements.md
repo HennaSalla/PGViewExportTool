@@ -5,7 +5,7 @@ Asiakaalla on käytössä PostgreSQL-pohjainen sovellus, jonka näkymien tiedot 
 ## Keskeiset vaatimukset
 
 - [ ] Sovelluksella on graafinen käyttöliittymä
-- [ ] Yhteysmerkkijono tietokantaan muodostetaan tapauskohtaisesti graafisesta käyttöliittymästä
+- [ ] Yhteysmerkkijono tietokantaan muodostetaan tapauskohtaisesti graafisesta käyttöliittymästä, huom. salasana syötetään
 - [ ] Käyttäjä syöttää näkymän nimen tekstikentään
 - [ ] Ohjelma tarkistaa, että näkymä on olemassa
 - [ ] Käyttäjä valitsee tiedoston nimen ja sijainnin, johon CSV-tiedosto tallenetaan
